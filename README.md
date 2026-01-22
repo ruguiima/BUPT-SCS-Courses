@@ -89,7 +89,7 @@
 | [web后端开发技术](./Network-Engineering/Web-back-end-development-techniques.md)                     | 小作业，大作业（及原本应有的小测） | 可以接受，不算很多                         |
 | [web前端开发技术](./Network-Engineering/Web-front-end-development.md)                               | 5次小作业和1次大作业               | 可以接受，不算很多                         |
 | ios开发技术（已停开）                                                                                      | 小论文                             | 很水，但是很爽，你懂的                     |
-| [嵌入式系统](./Network-Engineering/Embedded-systems.md) <br />（网工必修）  | 作业20，实验40，期末考试40（已过时） | 实验比较复杂，期末考试比较难，但老师会调分 |
+| [嵌入式系统](./Network-Engineering/Embedded-systems.md) <br />（网工必修）  | 作业20，实验40，期末考试40（已过时） | 可以接受 |
 | [web开发技术基础](./Network-Engineering/Development-Techniques-for-Web.md) <br />（网工必修） | 小作业，大作业<br />期末开卷考     | 可以接受，不算很多                         |
 
 ## 数据科学与大数据技术
